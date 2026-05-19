@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: ead8034202951544780552817e424ec6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 718160805454680293
+    second: lvl7_Idle_with_shadow_test_0
+  - first:
+      213: -7531930459101272445
+    second: lvl7_Idle_with_shadow_test_1
+  - first:
+      213: 7582347337948692870
+    second: lvl7_Idle_with_shadow_test_2
+  - first:
+      213: -7011425058974892466
+    second: lvl7_Idle_with_shadow_test_3
+  - first:
+      213: -2562429037693896449
+    second: lvl7_Idle_with_shadow_test_4
+  - first:
+      213: -1376639866532179439
+    second: lvl7_Idle_with_shadow_test_5
+  - first:
+      213: -5043415230968232371
+    second: lvl7_Idle_with_shadow_test_6
+  - first:
+      213: 2235943087080140952
+    second: lvl7_Idle_with_shadow_test_7
+  - first:
+      213: -1588999199937133411
+    second: lvl7_Idle_with_shadow_test_8
+  - first:
+      213: 6181596450206903637
+    second: lvl7_Idle_with_shadow_test_9
+  - first:
+      213: -8586602930350836560
+    second: lvl7_Idle_with_shadow_test_10
+  - first:
+      213: -6851938603678699305
+    second: lvl7_Idle_with_shadow_test_11
+  - first:
+      213: 3739652410307800618
+    second: lvl7_Idle_with_shadow_test_12
+  - first:
+      213: -6248107153889703936
+    second: lvl7_Idle_with_shadow_test_13
+  - first:
+      213: 3329791034301156480
+    second: lvl7_Idle_with_shadow_test_14
+  - first:
+      213: -3288261086303206407
+    second: lvl7_Idle_with_shadow_test_15
+  - first:
+      213: 2216429824106645036
+    second: lvl7_Idle_with_shadow_test_16
+  - first:
+      213: 6667733633324934486
+    second: lvl7_Idle_with_shadow_test_17
+  - first:
+      213: -4788264992863935260
+    second: lvl7_Idle_with_shadow_test_18
+  - first:
+      213: 3857057801046902361
+    second: lvl7_Idle_with_shadow_test_19
+  - first:
+      213: 153603313987051526
+    second: lvl7_Idle_with_shadow_test_20
+  - first:
+      213: -341392172536873682
+    second: lvl7_Idle_with_shadow_test_21
+  - first:
+      213: -2277974777787872866
+    second: lvl7_Idle_with_shadow_test_22
+  - first:
+      213: -7216381277300329137
+    second: lvl7_Idle_with_shadow_test_23
+  - first:
+      213: -3217706016759328119
+    second: lvl7_Idle_with_shadow_test_24
+  - first:
+      213: -5615529512137577388
+    second: lvl7_Idle_with_shadow_test_25
+  - first:
+      213: -2455735128275231881
+    second: lvl7_Idle_with_shadow_test_26
+  - first:
+      213: 4267984059687559264
+    second: lvl7_Idle_with_shadow_test_27
+  - first:
+      213: -9042115730891895140
+    second: lvl7_Idle_with_shadow_test_28
+  - first:
+      213: 7747486588110849033
+    second: lvl7_Idle_with_shadow_test_29
+  - first:
+      213: -1310508861357793802
+    second: lvl7_Idle_with_shadow_test_30
+  - first:
+      213: 337848704846318004
+    second: lvl7_Idle_with_shadow_test_31
+  - first:
+      213: -6230533325926580496
+    second: lvl7_Idle_with_shadow_test_32
+  - first:
+      213: -8160520951028770650
+    second: lvl7_Idle_with_shadow_test_33
+  - first:
+      213: -5346873378621970922
+    second: lvl7_Idle_with_shadow_test_34
+  - first:
+      213: 5512782569829902044
+    second: lvl7_Idle_with_shadow_test_35
+  - first:
+      213: 7653598314435547113
+    second: lvl7_Idle_with_shadow_test_36
+  - first:
+      213: -4480316393293818324
+    second: lvl7_Idle_with_shadow_test_37
+  - first:
+      213: -5331431982725629961
+    second: lvl7_Idle_with_shadow_test_38
+  - first:
+      213: -2275771547449371720
+    second: lvl7_Idle_with_shadow_test_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 208
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e01cb4927b67f900800000000000000
+      internalID: 718160805454680293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 208
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386e2504725397790800000000000000
+      internalID: -7531930459101272445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 208
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6818f0a1bb8e93960800000000000000
+      internalID: 7582347337948692870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 208
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e77869e0a62be90800000000000000
+      internalID: -7011425058974892466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 208
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8fb16dd5c607cd0800000000000000
+      internalID: -2562429037693896449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 208
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11255bbc55135ece0800000000000000
+      internalID: -1376639866532179439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 208
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46085f8190320ab0800000000000000
+      internalID: -5043415230968232371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 208
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890f663246aa70f10800000000000000
+      internalID: 2235943087080140952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 208
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d940e5385adb2f9e0800000000000000
+      internalID: -1588999199937133411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 208
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55de56f483179c550800000000000000
+      internalID: 6181596450206903637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 208
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b43c1de02246d880800000000000000
+      internalID: -8586602930350836560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_11
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 208
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0f1f0a42609e0a0800000000000000
+      internalID: -6851938603678699305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 144
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e64dbbd0ae5e330800000000000000
+      internalID: 3739652410307800618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c3ddb5a34a49a0800000000000000
+      internalID: -6248107153889703936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c0dcfbd4bc53e20800000000000000
+      internalID: 3329791034301156480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f34826c6ffbd52d0800000000000000
+      internalID: -3288261086303206407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 144
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26457f8e2752ce10800000000000000
+      internalID: 2216429824106645036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655e14f896c888c50800000000000000
+      internalID: 6667733633324934486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e428e9bb5aac8db0800000000000000
+      internalID: -4788264992863935260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956cc8d62a5078530800000000000000
+      internalID: 3857057801046902361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60065867665b12200800000000000000
+      internalID: 153603313987051526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_21
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d37dab0a1234bf0800000000000000
+      internalID: -341392172536873682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_22
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 144
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9987a242020360e0800000000000000
+      internalID: -2277974777787872866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_23
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 144
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45fbba56734adb90800000000000000
+      internalID: -7216381277300329137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9825c670d696853d0800000000000000
+      internalID: -3217706016759328119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c215b39a1a112b0800000000000000
+      internalID: -5615529512137577388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bd4b079e97bedd0800000000000000
+      internalID: -2455735128275231881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060e4b8b3ecea3b30800000000000000
+      internalID: 4267984059687559264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e873266a3f38280800000000000000
+      internalID: -9042115730891895140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 80
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9044372010a948b60800000000000000
+      internalID: 7747486588110849033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 80
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd54cb422320dde0800000000000000
+      internalID: -1310508861357793802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 80
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c0386b9740b400800000000000000
+      internalID: 337848704846318004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 80
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feb9ea63f2b889a0800000000000000
+      internalID: -6230533325926580496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_33
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 80
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a81ccb6e6100ce80800000000000000
+      internalID: -8160520951028770650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_34
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 80
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616ae38bdf61cc5b0800000000000000
+      internalID: -5346873378621970922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 80
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62dae0a86518c40800000000000000
+      internalID: 5512782569829902044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8571dd1b073a60800000000000000
+      internalID: 7653598314435547113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26dc506af7b2d1c0800000000000000
+      internalID: -4480316393293818324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 16
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f77b7ddbd2f206b0800000000000000
+      internalID: -5331431982725629961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl7_Idle_with_shadow_test_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 16
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3d65cc5d5da60e0800000000000000
+      internalID: -2275771547449371720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl7_Idle_with_shadow_test_0: 718160805454680293
+      lvl7_Idle_with_shadow_test_1: -7531930459101272445
+      lvl7_Idle_with_shadow_test_10: -8586602930350836560
+      lvl7_Idle_with_shadow_test_11: -6851938603678699305
+      lvl7_Idle_with_shadow_test_12: 3739652410307800618
+      lvl7_Idle_with_shadow_test_13: -6248107153889703936
+      lvl7_Idle_with_shadow_test_14: 3329791034301156480
+      lvl7_Idle_with_shadow_test_15: -3288261086303206407
+      lvl7_Idle_with_shadow_test_16: 2216429824106645036
+      lvl7_Idle_with_shadow_test_17: 6667733633324934486
+      lvl7_Idle_with_shadow_test_18: -4788264992863935260
+      lvl7_Idle_with_shadow_test_19: 3857057801046902361
+      lvl7_Idle_with_shadow_test_2: 7582347337948692870
+      lvl7_Idle_with_shadow_test_20: 153603313987051526
+      lvl7_Idle_with_shadow_test_21: -341392172536873682
+      lvl7_Idle_with_shadow_test_22: -2277974777787872866
+      lvl7_Idle_with_shadow_test_23: -7216381277300329137
+      lvl7_Idle_with_shadow_test_24: -3217706016759328119
+      lvl7_Idle_with_shadow_test_25: -5615529512137577388
+      lvl7_Idle_with_shadow_test_26: -2455735128275231881
+      lvl7_Idle_with_shadow_test_27: 4267984059687559264
+      lvl7_Idle_with_shadow_test_28: -9042115730891895140
+      lvl7_Idle_with_shadow_test_29: 7747486588110849033
+      lvl7_Idle_with_shadow_test_3: -7011425058974892466
+      lvl7_Idle_with_shadow_test_30: -1310508861357793802
+      lvl7_Idle_with_shadow_test_31: 337848704846318004
+      lvl7_Idle_with_shadow_test_32: -6230533325926580496
+      lvl7_Idle_with_shadow_test_33: -8160520951028770650
+      lvl7_Idle_with_shadow_test_34: -5346873378621970922
+      lvl7_Idle_with_shadow_test_35: 5512782569829902044
+      lvl7_Idle_with_shadow_test_36: 7653598314435547113
+      lvl7_Idle_with_shadow_test_37: -4480316393293818324
+      lvl7_Idle_with_shadow_test_38: -5331431982725629961
+      lvl7_Idle_with_shadow_test_39: -2275771547449371720
+      lvl7_Idle_with_shadow_test_4: -2562429037693896449
+      lvl7_Idle_with_shadow_test_5: -1376639866532179439
+      lvl7_Idle_with_shadow_test_6: -5043415230968232371
+      lvl7_Idle_with_shadow_test_7: 2235943087080140952
+      lvl7_Idle_with_shadow_test_8: -1588999199937133411
+      lvl7_Idle_with_shadow_test_9: 6181596450206903637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
