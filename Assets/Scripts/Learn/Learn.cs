@@ -47,23 +47,23 @@ public class Learn : MonoBehaviour
 
     //player1.Attack(player2);
 
-    int[] numbers = new int[7];   //index 0 1 2 3 4 5 6
-    numbers[0] = 10;
-    numbers[1] = 20;
-    numbers[2] = 30;
-    numbers[3] = 40;
-    numbers[4] = 50;
-    numbers[5] = 60;
-    numbers[6] = 70;
+    //int[] numbers = new int[7];   //index 0 1 2 3 4 5 6
+    //numbers[0] = 10;
+    //numbers[1] = 20;
+    //numbers[2] = 30;
+    //numbers[3] = 40;
+    //numbers[4] = 50;
+    //numbers[5] = 60;
+    //numbers[6] = 70;
 
-    List<int> numberList = new List<int>();
-    numberList.Add(10);   //10 -> 0
-    numberList.Add(20);   //20 -> 1
+    //List<int> numberList = new List<int>();
+    //numberList.Add(10);   //10 -> 0
+    //numberList.Add(20);   //20 -> 1
 
-    for (int index = 0; index < numberList.Count; index++)
-    {
-      Debug.Log(index + " " + numberList[index]);   //1 2 3
-    }
+    //for (int index = 0; index < numberList.Count; index++)
+    //{
+    //  Debug.Log(index + " " + numberList[index]);   //1 2 3
+    //}
 
     //int index = 0;
     //while (index < 7) //0
